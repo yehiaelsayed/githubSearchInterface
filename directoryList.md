@@ -1,9 +1,4 @@
-
-
-#Project Structure
-
-```
-|-- root
+|-- undefined
     |-- .gitignore
     |-- package.json
     |-- README.md
@@ -60,4 +55,3 @@
         |   |-- SearchState.ts
         |-- utils
             |-- httpClient.ts
-```
